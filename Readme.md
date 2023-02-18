@@ -1,4 +1,4 @@
-git init
-git add .
-git commit -m 'Initial Commit'
-git push -u origin master
+git init \\
+git add . \\
+git commit -m 'Initial Commit' \\
+git push -u origin master \\
