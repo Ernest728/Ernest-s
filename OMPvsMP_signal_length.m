@@ -12,7 +12,7 @@ temp_mp_iterations = 0;
 temp_omp_iterations = 0;
 t_temp_omp = 0;
 
-    for it = 1:100
+for it = 1:100
 x = zeros(n,1);
 idx = randperm(n,k);
 x(idx) = randn(k,1);
